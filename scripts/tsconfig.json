@@ -1,0 +1,11 @@
+{
+  "include": ["./src/script.js"],
+  "exclude": [],
+  "compilerOptions": {
+    "baseUrl": "/private/var/folders/qz/t_jm41xn76x0lnxczvc3kst40000gn/T/44249790c104a2547cf9b0a0c704e6be4f0/skylight-typedefs",
+    "allowJs": true,
+    "checkJs": true,
+    "outDir": "./",
+    "lib": ["ES2020"]
+  }
+}
