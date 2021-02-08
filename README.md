@@ -1,5 +1,7 @@
 ## Typescript for Spark AR
 
+UPDATE: v106+ supports typescript natively
+
 ![](./screenshot.jpg)
 
 Out of the box, the Spark AR JS runtime doesn't support things like async/await, or Array.includes. This project shows how to configure the tsconfig so it will compile your modern JS into something that plays nicely with Spark.
